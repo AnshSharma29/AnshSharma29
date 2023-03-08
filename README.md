@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id= "header" align = "center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2ODdhMDdhMDEyMjdhYWU1ZDA5NThlYjU1NWU3NTQ2ODk5NjU2NCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+</div>  
+     
 <!--
 **AnshSharma29/AnshSharma29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
