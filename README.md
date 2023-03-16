@@ -18,19 +18,14 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ### Hi there 👋
-
-</div>  
-  <!--
-**AnshSharma29/AnshSharma29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+- 🔭 I’m currently working on Web projects. <br>
+- 🌱 I’m currently learning Java and Python. <br>
+- 🤔 I’m looking for help with Python programming. <br>
+- 💬 Ask me about Content Writing, PHP and HTML with JavaScript coding and C++ coding. <br>
+- 📫 How to reach me: sharmaansh563@gmail.com  <br>
+                         OR <br>
+     LinkedIn: https://www.linkedin.com/in/ansh-sharma-b01962252/ <br>
+- ⚡ Fun fact: I am a Youtube Content Maker also. <br>
+</div>
+</div>
