@@ -17,12 +17,12 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AnshSharma29&label=Profile%20views&color=0e75b6&style=flat" alt="AnshSharma29" /> </p>
 <br><br>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 <div align="left">
 - 🔭 I’m currently working on Web projects. <br>
 - 🌱 I’m currently learning Java and Python. <br>
 - 🤔 I’m looking for help with Python programming. <br>
-- 💬 Ask me about Content Writing, PHP and HTML with JavaScript coding and C++ coding. <br>
+- 💬 Ask me about Content Writing, PHP, HTML with JavaScript and C++ coding. <br>
 - 📫 How to reach me: sharmaansh563@gmail.com  <br>
 - ⚡ Fun fact: I am a Youtube Content Maker also. <br>
 </div>
@@ -104,6 +104,13 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/><br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
+ 
+
 </div>
+<img src="https://user-images.githubusercontent.com/115182995/226096011-96c607f0-0f16-4c27-b117-50ea041e1cc0.svg"/>
+<br/>
+<br/>
+
 <img src="./assets/footer.svg">
+
 </div>
