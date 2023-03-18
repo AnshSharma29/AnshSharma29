@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+![Banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <br>
 <div align="center">  
 <p align="center"><img width="40%" alt="Hello everyone! My name's Ansh Sharma. I do coding,content creation and web development!" src="Source.JPG" /></a></p>
@@ -90,6 +90,8 @@
 </p>
  <h2>📊 GitHub Stats</h2>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSharma29&theme=vue"/>
+<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AnshSharma29&theme=vision-friendly-dark&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
