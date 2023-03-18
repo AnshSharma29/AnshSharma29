@@ -103,4 +103,5 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+<img src="./assets/footer.svg">
 </div>
