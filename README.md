@@ -96,23 +96,6 @@
   </a> 
 </p>
 
-
-# 📊 GitHub Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AnshSharma29&theme=vision-friendly-dark&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnshSharma29&theme=dracula)](https://git.io/streak-stats)
-<!--  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4) -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshsharma29&show_icons=true&locale=en" alt="anshsharma29" /></p> -->
-<div>
-  <a href="https://github.com/AnshSharma29">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/><br>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-
 <h2>📊 GitHub Stats</h2>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSharma29&theme=vue"/>
