@@ -1,7 +1,5 @@
 ![Banner](https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)
 <br>
-
-
 <div align="center">  
 <p align="center"><img width="40%" alt="Hello everyone! My name's Ansh Sharma. I do coding,content creation and web development!" src="Source.JPG" /></a></p>
 <br>
@@ -120,7 +118,7 @@
   </a>
 </div>
 <h2 align="center">Contributions Graph</h2>
-<img src="https://user-images.githubusercontent.com/115182995/229309305-94800c79-2239-4d5a-bdf7-f7eafcd34b30.svg"/>
+<img src="https://user-images.githubusercontent.com/115182995/230444778-d7e98c5e-c394-41c7-b79f-5989b02e8c44.svg"/>
 
 <br/>
 <br/>
