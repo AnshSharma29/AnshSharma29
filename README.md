@@ -118,7 +118,7 @@
   </a>
 </div>
 <h2 align="center">Contributions Graph</h2>
-<img src="https://user-images.githubusercontent.com/115182995/236529770-808d9b7e-0c16-455c-a23e-763f6d7f6e0a.svg"/>
+<img src="https://user-images.githubusercontent.com/115182995/236641360-d222e737-f2e4-4677-a16f-de570615c9b8.svg"/>
 
 <br/>
 <br/>
