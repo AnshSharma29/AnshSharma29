@@ -114,7 +114,7 @@
 <div>
   <a href="https://github.com/AnshSharma29">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/><br>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=dracula&hide_border=false&&layout=compact"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&&langs_count=8&theme=dracula&hide_border=false&&layout=compact"/> 
   </a>
 </div>
 <h2 align="center">Contributions Graph</h2>
