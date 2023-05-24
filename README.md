@@ -118,9 +118,10 @@
   </a>
 </div>
 <h2 align="center">Contributions Graph</h2>
-<img src="https://github.com/AnshSharma29/AnshSharma29/assets/115182995/02a01b88-acd2-463a-b9df-4d86e5ea96fd"/>
+<img src="https://github.com/AnshSharma29/AnshSharma29/assets/115182995/07e9dda3-390b-4798-8170-772ae8d1b486"/>
 
 <br/>
+
 <br/>
 <img src="./assets/footer.svg">
 </div>
