@@ -1,36 +1,7 @@
-dependencies:
-  animated_text_kit: ^4.2.2
-import 'package:animated_text_kit/animated_text_kit.dart';
 ![Banner](https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)
 <br>
 
-<div align="center">  
-
-Row(
-  mainAxisSize: MainAxisSize.min,
-  children: <Widget>[
-    const SizedBox(width: 20.0, height: 100.0),
-    const SizedBox(width: 20.0, height: 100.0),
-    DefaultTextStyle(
-      style: const TextStyle(
-        fontSize: 40.0,
-        fontFamily: 'Horizon',
-      ),
-      child: AnimatedTextKit(
-        animatedTexts: [
-          RotateAnimatedText('I AM ANSH SHARMA'),
-          RotateAnimatedText('A CODER'),
-          RotateAnimatedText('DATA SCIENTIST ENTHUSIAST'),
-          RotateAnimatedText('AND WEB DEVELOPER'),
-          ],
-        onTap: () {
-          print("Tap Event");
-        },
-      ),
-    ),
-  ],
-);
-  
+<div align="center">   
   <p align="center"><img width="40%" alt="Hello everyone! My name's Ansh Sharma. I do coding,content creation and web development!" src="Source.JPG" /></a></p>
 <br>
 <div id="badges">
