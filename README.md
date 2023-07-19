@@ -2,7 +2,33 @@
 <br>
 
 <div align="center">  
-<p align="center"><img width="40%" alt="Hello everyone! My name's Ansh Sharma. I do coding,content creation and web development!" src="Source.JPG" /></a></p>
+
+Row(
+  mainAxisSize: MainAxisSize.min,
+  children: <Widget>[
+    const SizedBox(width: 20.0, height: 100.0),
+    const SizedBox(width: 20.0, height: 100.0),
+    DefaultTextStyle(
+      style: const TextStyle(
+        fontSize: 40.0,
+        fontFamily: 'Horizon',
+      ),
+      child: AnimatedTextKit(
+        animatedTexts: [
+          RotateAnimatedText('I AM ANSH SHARMA'),
+          RotateAnimatedText('A CODER'),
+          RotateAnimatedText('DATA SCIENTIST ENTHUSIAST'),
+          RotateAnimatedText('AND WEB DEVELOPER'),
+          ],
+        onTap: () {
+          print("Tap Event");
+        },
+      ),
+    ),
+  ],
+);
+  
+  <p align="center"><img width="40%" alt="Hello everyone! My name's Ansh Sharma. I do coding,content creation and web development!" src="Source.JPG" /></a></p>
 <br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ansh-sharma-b01962252/">
