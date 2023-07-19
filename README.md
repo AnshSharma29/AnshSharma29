@@ -3,6 +3,7 @@
 
 <html>
 <head>
+  <style>
 svg {
   position: absolute;
   top: 50%;
@@ -56,7 +57,7 @@ svg {
   }
 }
 
-  
+  </style>
 </head>
 <body>
   
