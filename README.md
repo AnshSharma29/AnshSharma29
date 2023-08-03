@@ -22,7 +22,7 @@
 <br><br>
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 <div align="left">
-- 🔭 I’m currently working on Web projects. <br>
+- 🔭 I’m currently working on Data Science projects. <br>
 - 🌱 I’m currently learning Java and Python. <br>
 - 🤔 I’m looking for help with Python programming. <br>
 - 💬 Ask me about Content Writing, PHP, HTML with JavaScript and C++ coding. <br>
