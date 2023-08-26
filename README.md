@@ -1,4 +1,4 @@
-![Banner](https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)
+![github-user-contribution (12)](https://github.com/AnshSharma29/AnshSharma29/assets/115182995/4aafb8b7-136e-4044-bbcf-36f3a7e7e4a3)![Banner](https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)
 <br>
 
 <div align="center">   
@@ -119,11 +119,9 @@
   </a>
 </div>
 <h2 align="center">Contributions Graph</h2>
-<img src="https://github.com/AnshSharma29/AnshSharma29/assets/115182995/2e33d819-aa27-46f8-b39d-0b4b5946b15e"/>
-
+<img src="https://github.com/AnshSharma29/AnshSharma29/assets/115182995/10401999-ec34-4ba2-8e5b-9fa6d40ca651"/>
 
 <br/>
-
 <br/>
 <img src="./assets/footer.svg">
 </div>
