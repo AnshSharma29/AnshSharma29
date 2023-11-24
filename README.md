@@ -119,7 +119,7 @@
   </a>
 </div>
 <h2 align="center">Contributions Graph</h2>
-<img src="https://github.com/AnshSharma29/AnshSharma29/assets/115182995/d0a30873-007f-40e9-94b8-09da1ee5b106"/>
+<img src="https://github.com/AnshSharma29/AnshSharma29/assets/115182995/fdff6d88-139d-4ec2-a363-0aef52e6d11d"/>
 
 
 <br/>
