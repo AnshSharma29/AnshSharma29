@@ -29,9 +29,9 @@
 - 💬 Ask me about Content Writing, PHP, HTML with JavaScript and C++ coding. <br>
 - 📫 How to reach me: sharmaansh563@gmail.com  <br>
 - ⚡ Fun fact: Kakashi was a closet pervert. <br>
-
+</div>
 <br><br>
-
+<div align="center">
 <p align="center"><img width="40%" alt="Octobot" src="NUX_Octodex.gif"/></a></p>
 </div>
 <h3 align="left">Connect with me:</h3>
