@@ -15,6 +15,8 @@
   <a href="https://twitter.com/AnshSha73995017">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
+<p align="center"><img width="40%" alt="Octobot" src="NUX_Octodex.gif"/></a></p>
 </div>
 
 
@@ -31,9 +33,7 @@
 - ⚡ Fun fact: Kakashi was a closet pervert. <br>
 </div>
 <br><br>
-<div align="center">
-<p align="center"><img width="40%" alt="Octobot" src="NUX_Octodex.gif"/></a></p>
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
