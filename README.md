@@ -31,6 +31,9 @@
 - ⚡ Fun fact: Kakashi was a closet pervert. <br>
 </div>
 <br><br>
+
+<p align="center"><img width="40%" alt="Hello everyone! My name's Ansh Sharma. I do coding,content creation and web development!" src="Hello.gif"/></a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
