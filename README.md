@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">   
-  <p align="center"><img width="40%" alt="Hello everyone! My name's Ansh Sharma. I do coding,content creation and web development!" src=""/></a></p>
+  <p align="center"><img width="40%" alt="Hello everyone! My name's Ansh Sharma. I do coding,content creation and web development!" src="Hello.gif"/></a></p>
 <br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ansh-sharma-b01962252/">
