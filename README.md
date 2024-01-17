@@ -3,7 +3,10 @@
 <br>
 
 <div align="center">   
-  <p align="center"><img width="40%" alt="Hello everyone! My name's Ansh Sharma. I do coding,content creation and web development!" src="Hello.gif"/></a></p>
+  <p align="center">
+    <img width="40%" alt="Hello everyone! My name's Ansh Sharma. I do coding,content creation and web development!" src="Hello.gif"/></a>
+    <img width="40%" alt="Hello everyone!!" src="hello icon.gif"/></a>
+</p>
 <br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ansh-sharma-b01962252/">
@@ -26,9 +29,9 @@
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 <div align="left">
 - 🔭 I’m currently working on Data Science projects. <br>
-- 🌱 I’m currently learning Java and Python. <br>
-- 🤔 I’m looking for help with Python programming. <br>
-- 💬 Ask me about Content Writing, PHP, HTML with JavaScript and C++ coding. <br>
+- 🌱 I’m currently learning React and TypeScript. <br>
+- 🤔 I’m looking for help with TypeScript and Andoid Development. <br>
+- 💬 Ask me about Content Writing, Front-end Web Development, Data Analytics, Data Science, Java and C++ coding. <br>
 - 📫 How to reach me: sharmaansh563@gmail.com  <br>
 - ⚡ Fun fact: Kakashi was a closet pervert. <br>
 </div>
@@ -60,7 +63,7 @@
 <h3 align="left">Languages and Tools Used:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="Bootstrap icon.gif" alt="bootstrap" width="60" height="60"/> 
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -72,13 +75,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="git icon.gif" alt="git" width="60" height="60"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="js.gif" alt="javascript" width="60" height="60"/> 
   </a> 
   <br> 
   <br>
@@ -98,7 +101,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <img src="react icon.gif" alt="react" width="60" height="60"/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
@@ -126,8 +129,12 @@
 <img src="https://github.com/AnshSharma29/AnshSharma29/assets/115182995/28391807-ba0a-43b7-a325-4aeb933a5ba1"/>
 
 
-
-
+<br/>
+<br/>
+<img src="end 1 icon.gif">
+<br/>
+<br/>
+<img src="end icon.gif">
 <br/>
 <br/>
 <img src="./assets/footer.svg">
