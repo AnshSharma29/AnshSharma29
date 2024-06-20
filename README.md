@@ -126,7 +126,8 @@
   </a>
 </div>
 <h2 align="center">Contributions Graph</h2>
-<img src="https://github.com/AnshSharma29/AnshSharma29/assets/115182995/cb7be9c7-7e6c-4c80-a5ca-4cf1b7c5c157"/>
+
+![snake gif](https://github.com/AnshSharma29/AnshSharma29/blob/output/github-contribution-grid-snake.gif)
 
 
 
