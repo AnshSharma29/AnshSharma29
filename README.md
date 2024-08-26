@@ -1,4 +1,4 @@
-![github-user-contribution (29)](https://github.com/user-attachments/assets/38fa573d-13a6-4547-a308-727e5f9c9efe)![Banner](242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
+![Banner](242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 
 <br>
 
@@ -131,7 +131,7 @@ rder=false&show_owner=true"/><br>
 <br/>
 <br/>
 
-   <img src=" https://github.com/user-attachments/assets/8f954116-46b8-4dd2-b616-3ceac81946a2  "/> 
+   <img src="https://github.com/user-attachments/assets/38fa573d-13a6-4547-a308-727e5f9c9efe"/> 
 
 <br/>
 <br/>
