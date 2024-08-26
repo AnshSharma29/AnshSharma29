@@ -1,4 +1,4 @@
-![Banner](242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
+![github-user-contribution (29)](https://github.com/user-attachments/assets/38fa573d-13a6-4547-a308-727e5f9c9efe)![Banner](242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 
 <br>
 
@@ -121,14 +121,20 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&show_icons=true&locale=en" alt="AnshSharma29" /></p> -->
 <div>
   <a href="https://github.com/AnshSharma29">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/><br>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_bo![github-user-contribution (29)](https://github.com/user-attachments/assets/950c31c7-ee87-4448-891d-80fe78f7b0f1)
+rder=false&show_owner=true"/><br>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&&langs_count=8&theme=dracula&hide_border=false&&layout=compact"/> 
   </a>
 </div>
 <h2 align="center">Contributions Graph</h2>
 
+<br/>
+<br/>
 
+   <img src=" https://github.com/user-attachments/assets/8f954116-46b8-4dd2-b616-3ceac81946a2  "/> 
 
+<br/>
+<br/>
 
 <br/>
 <br/>
