@@ -41,13 +41,6 @@
 <p align="left">
   
   
-  <a href="https://www.instagram.com/anshsharma_msd/?igshid=ZDdkNTZiNTM%3D" target="blank">
-    <img align="center" src="insta icon.gif" 
-       alt="anshsharma_msd" height="60" width="60" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100004316642721" target="blank">
-    <img align="center" src="facebook icon.gif" alt="Ansh Sharma" height="60" width="60" />
-  </a>
   <a href="https://www.codechef.com/users/uchiha_coder29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="uchiha_coder29" height="30" width="40" style="background-color:white;" />
   </a>
   <a href="https://www.hackerrank.com/sharmaansh563?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sharmaansh563" height="30" width="40" />
