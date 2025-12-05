@@ -101,6 +101,8 @@
   </a> 
 </p>
 
+</br>
+
 <h2>📊 GitHub Stats</h2>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSharma29&theme=vue"/>
@@ -113,23 +115,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&show_icons=true&locale=en" alt="AnshSharma29" /></p>
 
+</br>
+</br>
 
-
-<table>
-<tr>
-<td>
+## Top Languages
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula" height="150"/>
-</td>
-<td>
-<img src="https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=dracula&no-frame=true" height="150"/>
-</td>
-</tr>
-</table>
-
-
-
-
-
 
 <h2 align="center">Contributions Graph</h2>
 <br/>
