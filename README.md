@@ -120,17 +120,9 @@ rder=false&show_owner=true"/><br>
   </a>
 </div>
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/AnshSharma29/AnshSharma29/blob/output/github-contribution-grid-snake.svg)
-
 <h2 align="center">Contributions Graph</h2>
-
 <br/>
-
    <img src="https://github.com/user-attachments/assets/38fa573d-13a6-4547-a308-727e5f9c9efe"/> 
-
-<br/>
-<br/>
 
 <br/>
 <br/>
