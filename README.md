@@ -110,7 +110,6 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AnshSharma29&theme=vision-friendly-dark&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnshSharma29&theme=dracula)](https://git.io/streak-stats)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&show_icons=true&locale=en" alt="AnshSharma29" /></p>
