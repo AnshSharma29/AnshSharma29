@@ -118,13 +118,14 @@
 <table>
 <tr>
 <td>
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula)](https://github.com/AnshSharma29)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula" height="150"/>
 </td>
 <td>
-<img src="https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=dracula&no-frame=true&margin-w=10" height="150"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=dracula&no-frame=true" height="150"/>
 </td>
 </tr>
 </table>
+
 
 
 
