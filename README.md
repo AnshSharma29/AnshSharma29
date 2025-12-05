@@ -112,15 +112,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&show_icons=true&locale=en" alt="AnshSharma29" /></p>
-<div>
-  <a href="https://github.com/AnshSharma29">
-    <!-- GitHub Stats Card -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api username=AnshSharma29&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" /><br>
 
-    <!-- Top Languages Card -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&langs_count=8&theme=dracula&hide_border=false&layout=compact" /> 
-  </a>
-</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshSharma29&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true)](https://github.com/AnshSharma29)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&langs_count=8&theme=dracula&hide_border=false&layout=compact)](https://github.com/AnshSharma29)
+
 
 
 <h2 align="center">Contributions Graph</h2>
