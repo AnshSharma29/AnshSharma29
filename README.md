@@ -112,7 +112,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&show_icons=true&locale=en" alt="AnshSharma29" /></p>
 
 </br>
 </br>
