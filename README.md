@@ -114,9 +114,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&show_icons=true&locale=en" alt="AnshSharma29" /></p>
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshSharma29&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true)](https://github.com/AnshSharma29)
+<table>
+  <tr>
+    <td>
+      [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula)](https://github.com/AnshSharma29)
+    </td>
+    <td>
+      [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=dracula&no-frame=true&margin-w=10)](https://github.com/AnshSharma29)
+    </td>
+  </tr>
+</table>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&langs_count=8&theme=dracula&hide_border=false&layout=compact)](https://github.com/AnshSharma29)
 
 
 
