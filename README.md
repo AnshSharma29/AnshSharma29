@@ -119,9 +119,12 @@ rder=false&show_owner=true"/><br>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&&langs_count=8&theme=dracula&hide_border=false&&layout=compact"/> 
   </a>
 </div>
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/AnshSharma29/AnshSharma29/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="center">Contributions Graph</h2>
 
-<br/>
 <br/>
 
    <img src="https://github.com/user-attachments/assets/38fa573d-13a6-4547-a308-727e5f9c9efe"/> 
