@@ -113,7 +113,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-</br>
 
 ## Top Languages
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula" height="150"/>
