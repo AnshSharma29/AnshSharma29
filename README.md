@@ -114,13 +114,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 </br>
-</br>
 
 ## Top Languages
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula" height="150"/>
 
 <h2 align="center">Contributions Graph</h2>
-<br/>
    <img src="https://github.com/user-attachments/assets/38fa573d-13a6-4547-a308-727e5f9c9efe"/> 
 
 <br/>
