@@ -118,7 +118,7 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=AnshSharma29&show_icons=true&theme=dracula" height="150"/>
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula)](https://github.com/AnshSharma29)
 </td>
 <td>
 <img src="https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=dracula&no-frame=true&margin-w=10" height="150"/>
