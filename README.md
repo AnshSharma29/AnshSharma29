@@ -105,16 +105,14 @@
 
 <h2>📊 GitHub Stats</h2>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSharma29&theme=vue"/>
 <br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AnshSharma29&theme=vision-friendly-dark&hide_border=false)<br/> -->
+
+[](https://github-readme-streak-stats.herokuapp.com/?user=AnshSharma29&theme=vision-friendly-dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnshSharma29&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-
-## Top Languages
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula" height="150"/>
 
 <h2 align="center">Contributions Graph</h2>
