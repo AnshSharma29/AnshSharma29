@@ -32,7 +32,7 @@
 - 🌱 I’m currently learning React and TypeScript. <br>
 - 🤔 I’m looking for help with TypeScript and Andoid Development. <br>
 - 💬 Ask me about Content Writing, Front-end Web Development, Data Analytics, Data Science, Java and C++ coding. <br>
-- 📫 How to reach me: sharmaansh563@gmail.com  <br>
+- 📫 How to reach me: ansh.007@yahoo.com  <br>
 - ⚡ Fun fact: Kakashi was a closet pervert. <br>
 </div>
 <br><br>
@@ -107,6 +107,8 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSharma29&theme=vue"/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshSharma29&show_icons=true&theme=dracula)](https://github.com/AnshSharma29)
 <br/>
 
 [](https://github-readme-streak-stats.herokuapp.com/?user=AnshSharma29&theme=vision-friendly-dark&hide_border=false)<br/>
