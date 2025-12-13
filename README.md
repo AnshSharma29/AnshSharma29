@@ -104,7 +104,7 @@
 </br>
 
 <h2>📊 GitHub Stats</h2>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSharma29&theme=vue"/>
 
@@ -113,8 +113,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnshSharma29&theme=dracula&hide_border=true)
 
-<br/>
-[](https://github-readme-streak-stats.herokuapp.com/?user=AnshSharma29&theme=vision-friendly-dark&hide_border=false)<br/>
+<br/><br/>
 <!-- [](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
