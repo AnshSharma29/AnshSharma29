@@ -104,7 +104,7 @@
 </br>
 
 <h2>📊 GitHub Stats</h2>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSharma29&theme=vue"/>
 
