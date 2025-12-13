@@ -115,7 +115,7 @@
 
 <br/>
 [](https://github-readme-streak-stats.herokuapp.com/?user=AnshSharma29&theme=vision-friendly-dark&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!-- [](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula" height="150"/>
