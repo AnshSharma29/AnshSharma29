@@ -111,7 +111,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshSharma29&show_icons=true&theme=dracula)](https://github.com/AnshSharma29)
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AnshSharma29&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=AnshSharma29&theme=dracula)
 
 <br/>
 <!-- [](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma29&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
@@ -120,7 +120,8 @@
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula" height="150"/>
 
 <h2 align="center">Contributions Graph</h2>
-   <img src="https://github.com/user-attachments/assets/ef1afddf-aa28-44c3-847f-b77e6699bc6a"/> 
+   <img src="https://github.com/user-attachments/assets/feba080a-1690-402a-8ffc-e9f17188902b"/> 
+
 
 <br/>
 <br/>
