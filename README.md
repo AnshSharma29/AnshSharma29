@@ -108,7 +108,7 @@
 
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSharma29&theme=vue"/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshSharma29&show_icons=true&theme=dracula)](https://github.com/AnshSharma29)
+<br/>
 <br/>
 
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=AnshSharma29&theme=dracula)
@@ -120,7 +120,7 @@
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula" height="150"/>
 
 <h2 align="center">Contributions Graph</h2>
-   <img src="https://github.com/user-attachments/assets/feba080a-1690-402a-8ffc-e9f17188902b"/> 
+   <img src= "https://github.com/user-attachments/assets/e22a8032-9b79-4187-9479-9d3b1fbfb577"/>
 
 
 <br/>
