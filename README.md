@@ -120,7 +120,7 @@
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshSharma29&layout=compact&theme=dracula" height="150"/>
 
 <h2 align="center">Contributions Graph</h2>
-   <img src= "https://github.com/user-attachments/assets/e22a8032-9b79-4187-9479-9d3b1fbfb577"/>
+   <img src= "https://github.com/user-attachments/assets/417d18f6-33c3-4bb5-8533-ac63468b5406"/>
 
 
 <br/>
